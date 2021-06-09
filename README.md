@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" >
+<div style="width: 100%">
   <a href="https://lepasmilandou-effeil.com/"><img src="img/Lepas_Milandou-Effeil.png" style="width: 100%;"/></a>
 </div>
 <br>
