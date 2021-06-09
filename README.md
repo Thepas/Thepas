@@ -26,21 +26,41 @@ an IT developper, Mechatronic engineer, Web Developper and Embedded software dev
 ## What & Whrere I am currently working at/on/as
 <p> I am currently looking for a job, in the meantime I am working on different personal projects</p>
 
-## My personnal project
+## A few personal projects
 <h3>LepasSword, a password generator (Ongoing)</h3>
 <img src="img/lepassword.png" alt="" style="height: 400px;">
 <br>
-Programming Language: <img src="https://img.shields.io/badge/-Python-teal?style=flat&logo=Python&logoColor=white" alt="">
+<p> Programming Language: <img src="https://img.shields.io/badge/-Python-teal?style=flat&logo=Python&logoColor=white" alt=""></p>
 
-<br><br>
+<p>Coming Soon: A website format with API</p> 
+<p> Programming Language: <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Django-teal?style=flat&logo=Django&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" alt="">
+</p>
+
+<br>
 
 <h3>Comet fall Game</h3>
 <img src="img/comet_fall.png" alt="" style="height: 400px;">
 <br>
-Programming Language: <img src="https://img.shields.io/badge/-Python-teal?style=flat&logo=Python&logoColor=white" alt="">
+<p> Programming Language: <img src="https://img.shields.io/badge/-Python-teal?style=flat&logo=Python&logoColor=white" alt=""></p>
 
+<br>
 
+<h3>My movies, series and animes (repo is private for the moment)</h3>
+<p> A website that lists all the movies, series, anime 
+    that I have already watched with the help of the API of the website betaseries.com </p>
+<p> Programming Language: <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" alt="">
+</p>
+<br>
 
+<h3>GrandChase AutoTouch script</h3>
+<p>Some scripts written in javascript for the "AutoTouch" tool which allows to make automatic touches on IOS </p>
+<p> Programming Language: 
+        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" alt="">
+</p>
 
 ## Programming Languages
 
@@ -59,9 +79,21 @@ Programming Language: <img src="https://img.shields.io/badge/-Python-teal?style=
 
 ![Git](https://img.shields.io/badge/-Git-tomato?style=flat&logo=Git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Reactjs](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
+![LabView](https://img.shields.io/badge/-Labview-gray?style=flat&logo=Labview&logoColor=yellow)
+![Matlab](https://img.shields.io/badge/-Matlab-9cf?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
+
+
+## IDE
+
+![Pycharm](https://img.shields.io/badge/-Pycharm-fcf84a?style=plastic&logo=pycharm&logoColor=black)
+![VS code](https://img.shields.io/badge/-vscode-2b2b30?style=plastic&logo=visual-studio-code&logoColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-fcf84a?style=plastic&logo=intellij-idea&logoColor=black)
+![WebStorm](https://img.shields.io/badge/-webstorm-fcf84a?style=plastic&logo=webstorm&logoColor=black)
+![Atom](https://img.shields.io/badge/-Atom-grey?style=flat&logo=Atom&logoColor=white)
 
 ## GitHub Statistics
 
