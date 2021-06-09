@@ -58,14 +58,12 @@ an IT developper, Mechatronic engineer, Web Developper and Embedded software dev
 
 <h3>GrandChase AutoTouch script</h3>
 <p>Some scripts written in javascript for the "AutoTouch" tool which allows to make automatic touches on IOS </p>
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
-    <img src="img/Grandchase_bot1.jpg".jpg" alt="bot menu 1 " style="width:100%">
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="img/Grandchase_bot2.jpg" alt="bot menu 2" style="width:100%">
-  </div>
-</div>
+
+| [![menu list 1](https://github.com/Thepas/Thepas/blob/main/img/Grandchase_bot1.jpg)](http://videoblocks.com)  | [![menu list 2](https://github.com/Thepas/Thepas/blob/main/img/Grandchase_bot2.jpg)](http://audioblocks.com) |
+|:---:|:---:|
+
+
+
 <p> Programming Language: 
         <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" alt="">
 </p>
@@ -78,7 +76,6 @@ an IT developper, Mechatronic engineer, Web Developper and Embedded software dev
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-mediumpurple?style=flat&logo=PHP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightsteelblue?style=flat&logo=MySQL&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-limegreen?style=flat&logo=GNU-Bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-tomato?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-darkblue?style=flat&logo=CSS3&logoColor=white)
 
