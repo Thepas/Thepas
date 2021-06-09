@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="width: 100%">
-  <a href="https://lepasmilandou-effeil.com/"><img src="img/Lepas_Milandou-Effeil.png" style="width: 100%;"/></a>
+  <a href="https://lepasmilandou-effeil.com/"><img src="img/Lepas_Milandou-Effeil.png"/></a>
 </div>
 <br>
 
@@ -58,6 +58,14 @@ an IT developper, Mechatronic engineer, Web Developper and Embedded software dev
 
 <h3>GrandChase AutoTouch script</h3>
 <p>Some scripts written in javascript for the "AutoTouch" tool which allows to make automatic touches on IOS </p>
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 5px;">
+    <img src="img/Grandchase_bot1.jpg".jpg" alt="bot menu 1 " style="width:100%">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <img src="img/Grandchase_bot2.jpg" alt="bot menu 2" style="width:100%">
+  </div>
+</div>
 <p> Programming Language: 
         <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" alt="">
 </p>
